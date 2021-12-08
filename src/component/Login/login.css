@@ -1,0 +1,44 @@
+body {
+  background-image: url("https://thumbs.dreamstime.com/z/aerial-island-view-ko-man-thailand-179404170.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat, repeat;
+  background-position: center;
+  background-size: cover;
+}
+#demotext {
+  color: rgba(255, 255, 255, 0.3);
+  text-shadow: 0 0 15px rgba(255, 255, 255, 0.5),
+    0 0 10px rgba(255, 255, 255, 0.5);
+}
+#formid {
+  font-family: Georgia, serif;
+  font-size: 25px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  margin: auto;
+  text-align: left;
+
+  width: 50%;
+  border: 3px solid green;
+  /* padding: 10px; */
+  border: 5px solid #1c6ea4;
+  /* position: center; */
+}
+#notreg {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  letter-spacing: -0.4px;
+  word-spacing: 0.4px;
+  color: #ff1f46;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: none;
+}
